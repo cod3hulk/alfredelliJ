@@ -1,4 +1,7 @@
-# :tophat: Alfred worflow for searching IntelliJ projects
+# Alfred worflow for searching IntelliJ projects
+Hi :tophat:
+this workflow helps you to access your IntelliJ projects faster than ever!
+If you're interested to add some functionality go ahead and help me.
 
 ## How to install
 * Double click the downloaded workflow.
