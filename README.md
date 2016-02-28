@@ -3,7 +3,7 @@ Hi :tophat:
 
 this workflow helps you to access your IntelliJ projects faster than ever!
 
-[Sample](https://github.com/codeBud7/alfredelliJ/blob/master/samples/search.png)
+![Sample](https://github.com/codeBud7/alfredelliJ/blob/master/samples/search.png)
 
 *If you're interested to add some functionality go ahead and help me.*
 
