@@ -11,9 +11,7 @@ If you're interested to add some functionality go ahead and help me.
 * Follow the script filter instructions below
 
 ## Workflow set up
-* Enter your directories like this: 
-
-From
+Enter your directories like this from
 ```bash
 sh {getIntelliJProjectsScriptPath} {yourFilePath} {query}
 ```  
@@ -21,6 +19,10 @@ to
 ```bash
 sh ~/scripts/alfredelliJ/getIntelliJProjects.sh /Volumes/development/ {query}
 ```
+
+## Use it
+- [] Type *iml* into your Alfred searchbar
+- [] Type in your project name to open it directly into IntelliJ
 
 ## Download
 Download the alfred extension [here](https://github.com/codeBud7/alfredelliJ/blob/master/alfredelliJ.alfredworkflow).
