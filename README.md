@@ -3,7 +3,9 @@ Hi :tophat:
 
 this workflow helps you to access your IntelliJ projects faster than ever!
 
-If you're interested to add some functionality go ahead and help me.
+[Sample](https://github.com/codeBud7/alfredelliJ/blob/master/samples/search.png)
+
+*If you're interested to add some functionality go ahead and help me.*
 
 ## How to install
 * Double click the downloaded workflow.
