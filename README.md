@@ -21,8 +21,8 @@ sh ~/scripts/alfredelliJ/getIntelliJProjects.sh /Volumes/development/ {query}
 ```
 
 ## Use it
-- [] Type *iml* into your Alfred searchbar
-- [] Type in your project name to open it directly into IntelliJ
+- [ ] Type *iml* into your Alfred searchbar
+- [ ] Type in your project name to open it directly into IntelliJ
 
 ## Download
 Download the alfred extension [here](https://github.com/codeBud7/alfredelliJ/blob/master/alfredelliJ.alfredworkflow).
