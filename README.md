@@ -15,11 +15,11 @@ this workflow helps you to access your IntelliJ projects faster than ever!
 ## Workflow set up
 Enter your directories like this from
 ```bash
-sh {getIntelliJProjectsScriptPath} {yourFilePath} {query}
+{getIntelliJProjectsScriptPath}
 ```  
 to
 ```bash
-sh ~/scripts/alfredelliJ/getIntelliJProjects.sh /Volumes/development/ {query}
+/Volumes/development/
 ```
 
 ## Use it
